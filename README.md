@@ -4,3 +4,10 @@ A data visualization workshop that I had given using python libraries, the works
 
 
 
+References
+
+I imported the data set from Kaggle : https://www.kaggle.com/
+
+https://www.kaggle.com/code/dbmohit/personal-key-indicators-of-heart-disease
+
+https://www.kaggle.com/code/arshadgeek/data-visualisation-heart-diseases/notebook
